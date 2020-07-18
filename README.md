@@ -1,11 +1,13 @@
 ### Hi there 👋
 
+<div align = center>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FC17AN)](https://hits.seeyoufarm.com)
+</div>
+
 <!--
 **C17AN/c17an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<div>
-<a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FC17AN"/></a>
-</div>
+
 
 Here are some ideas to get you started:
 
