@@ -1,10 +1,13 @@
-### Hi there 👋
+### 🤖 Current Interest : Serving Public Data with Node.js & React
+### 🎇 Current Work : 2020 오픈소스 컨트리뷰톤, 화전역 전철 실시간 알림 프로젝트
+### 💘 Loves : Javascript, Coffee, Bed
 
 <div align = center>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FC17AN)](https://hits.seeyoufarm.com)
 
 </div>
+
 
 <!--
 **C17AN/c17an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
