@@ -1,6 +1,6 @@
 #### 🤖 Current Interest : Serving Public Data with Node.js & React
 #### 🎇 Current Work : 2020 오픈소스 컨트리뷰톤, 화전역 전철 실시간 알림 프로젝트
-#### 💘 Loves : Javascript, Mint-Choco, Pineapple Pizza, Bed
+#### 💘 Loves : 자바스크립트, 민트초코, 파인애플 피자, 푹신푹신 침대
 #### 🎵 Weekly Music : [윤석철 트리오] - [Someday My Fxxxxx Will Come](https://www.youtube.com/watch?v=WHRWsrUHgKs) 
 
 <div align = center>
