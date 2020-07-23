@@ -1,5 +1,5 @@
 #### 🤖 Current Interest : CSS 심화 (Animation, Layout)
-#### 🎇 Current Work : 2020 오픈소스 컨트리뷰톤, 한국항공대 학과 홈페이지 재구축사업
+#### 🎇 Current Work : 2020 오픈소스 컨트리뷰톤, 한국항공대 학부 홈페이지 재구축사업 준비
 #### 💘 Loves : 자바스크립트, 민트초코, 파인애플 피자, 푹신푹신 침대
 #### 🎵 Weekly Music : [윤석철 트리오] - [Someday My Fxxxxx Will Come](https://www.youtube.com/watch?v=WHRWsrUHgKs) 
 
