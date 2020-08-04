@@ -1,6 +1,5 @@
 #### 🤖 Current Interest : Typescript, ES6 Basics
-#### 🎇 Current Work : 2020 오픈소스 컨트리뷰톤
-#### 💘 Loves : 자바스크립트, 민트초코, 파인애플 피자, 푹신푹신 침대
+#### 🎇 Current Work : 2020 오픈소스 컨트리뷰톤, 항공대 학과 홈페이지 재구축사업
 #### 🎵 Weekly Music : [Elijah Blake] - [Satisfied](https://www.youtube.com/watch?v=XDTnieDszTY) 
 
 <div align = center>
