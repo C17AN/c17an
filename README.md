@@ -14,19 +14,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=C17AN&show_icons=true" />
 </a>
 
-
-<span align = left>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C17AN&layout=compact)](https://github.com/C17AN/github-readme-stats)
-
-</span>
-
-<span align = right>
-  
-[![C17AN's github stats](https://github-readme-stats.vercel.app/api?username=C17AN&show_icons=true)](https://github.com/C17AN/github-readme-stats)
-
-</span>
-
 <div align = center>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FC17AN)](https://hits.seeyoufarm.com)
