@@ -4,8 +4,11 @@
 
 ---
 
+<div align = center>
+  
 [![C17AN's github stats](https://github-readme-stats.vercel.app/api?username=C17AN)](https://github.com/C17AN/github-readme-stats)
 
+</div>
 
 <div align = center>
   
