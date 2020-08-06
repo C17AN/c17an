@@ -8,7 +8,7 @@
 
 <div align = center>
   
-  [C17AN's github stats]("https://github-readme-stats.vercel.app/api?username=C17AN&show_icons=true&theme=prussian")
+  ![C17AN's github stats]("https://github-readme-stats.vercel.app/api?username=C17AN&show_icons=true&theme=prussian")
 
 </div>
 
