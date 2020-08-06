@@ -7,12 +7,14 @@
 ---
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C17AN&layout=compact" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github-readme-stats.vercel.app">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=C17AN&show_icons=true" />
 </a>
+
+<br>
 
 <div align = center>
   
