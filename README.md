@@ -6,6 +6,15 @@
 
 ---
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C17AN&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=C17AN&show_icons=true" />
+</a>
+
+
 <span align = left>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C17AN&layout=compact)](https://github.com/C17AN/github-readme-stats)
