@@ -8,7 +8,7 @@
 
 <div align = center>
   
-[![C17AN's github stats](https://github-readme-stats.vercel.app/api?username=C17AN)](https://github.com/C17AN/github-readme-stats)
+[![C17AN's github stats](https://github-readme-stats.vercel.app/api?username=C17AN)](https://github.com/C17AN/github-readme-stats&show_icons=true)
 
 </div>
 
