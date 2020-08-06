@@ -2,6 +2,8 @@
 #### 🎇 Current Work : 2020 오픈소스 컨트리뷰톤 (~09/13), 한국항공대 학부 홈페이지 재구축사업 (~08/31)
 #### 🎵 Weekly Music : [Elijah Blake] - [Satisfied](https://www.youtube.com/watch?v=XDTnieDszTY) 
 
+---
+
 [![C17AN's github stats](https://github-readme-stats.vercel.app/api?username=C17AN)](https://github.com/C17AN/github-readme-stats)
 
 
