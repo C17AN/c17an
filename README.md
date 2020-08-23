@@ -2,7 +2,7 @@
 
 #### 🤖 Current Interest : Typescript, ES6 Basics
 #### 🎇 Current Work : 2020 오픈소스 컨트리뷰톤 (~09/13), 한국항공대 학부 홈페이지 재구축사업 (~08/31)
-#### 🎵 Weekly Music : <span style = "color : #4653e8;">크리스탈 티</span> - [**[로망 포르노]**](https://www.youtube.com/watch?v=QAQdesb_zCs) 
+#### 🎵 Weekly Music : <span style = "color : #4653e8;">김뜻돌</span> - [**[삐뽀삐뽀]**](https://www.youtube.com/watch?v=UAHP1VgljnE&list=RDUAHP1VgljnE&start_radio=1) 
 
 ---
 
