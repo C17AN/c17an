@@ -1,7 +1,7 @@
 ---
 
 #### 🤖 Current Interest : Typescript, ES6 Basics
-#### 🤔 Current Concern : "면접관이 내게 프로미스를 설명하라 한다면?"
+#### 🤔 Current Concern : Go도 배우고 싶고.. GraphQL도 배우고 싶고.. Typescript도 배우고 싶고.. React도 더 배워야 하고..
 #### 🎇 Current Work : 2020 오픈소스 컨트리뷰톤 (~09/13), 5-Days React Challenge (~09/11)
 #### 🎵 Weekly Music : <span style = "color : #4653e8;">토이(With 권진아)</span> - [**[그녀가 말했다]**](https://www.youtube.com/watch?v=9ZS0LkHgzhg) 
 
