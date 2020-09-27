@@ -1,6 +1,6 @@
 ---
 
-#### 🤖 Current Interest : Typescript, ES6 Basics
+#### 🤖 Current Interest : Typescript, ES6 Basics, Next.js
 #### 🤔 Current Concern : -
 #### 🎇 Current Work : Context API를 활용한 가계부 만들기
 #### 🎵 Weekly Music : <span style = "color : #4653e8;">roon</span> - [**[추억 속 너에게 (Prod. KARXHE)]**](https://www.youtube.com/watch?v=wJuNJS9_b7A&list=RDBbGfSRSVgK4&index=9) 
