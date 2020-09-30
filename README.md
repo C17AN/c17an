@@ -9,6 +9,7 @@
 ![Typescript Badge](https://img.shields.io/badge/Typescript-007acc?style=flat-square&logo=TypeScript&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-2dcc62?style=flat-square&logo=Node.js&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white)
+![Redux Badge](https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=Redux&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white)
 
 <div align = center>
