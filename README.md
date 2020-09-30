@@ -4,7 +4,7 @@
 ![React Badge](https://img.shields.io/badge/React-34d2eb?style=flat-square&logo=react&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-2dcc62?style=flat-square&logo=Node.js&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white)
-![Javascript Badge](https://img.shields.io/badge/Javascript-e3e35b?style=flat-square&logo=JavaScript&logoColor=white)
+![Javascript Badge](https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white)
 ![Typescript Badge](https://img.shields.io/badge/Typescript-007acc?style=flat-square&logo=TypeScript&logoColor=white)
 
 <div align = center>
