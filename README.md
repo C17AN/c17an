@@ -1,11 +1,5 @@
----
-
-#### 🤖 Current Interest : Typescript, ES6 Basics, Next.js
-#### 🤔 Current Concern : -
-#### 🎇 Current Work : -
-#### 🎵 Weekly Music : <span style = "color : #4653e8;">roon</span> - [**[추억 속 너에게 (Prod. KARXHE)]**](https://www.youtube.com/watch?v=wJuNJS9_b7A&list=RDBbGfSRSVgK4&index=9) 
-
----
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=spacesangsoo)](https://solved.ac/spacesangsoo)
 
 <div align = center>
   
