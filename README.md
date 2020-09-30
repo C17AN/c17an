@@ -1,5 +1,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=spacesangsoo)](https://solved.ac/spacesangsoo)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://merrily-code.netlify.app/)](https://merrily-code.netlify.app/)
 
 <div align = center>
   
