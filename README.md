@@ -6,10 +6,10 @@
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![Javascript Badge](https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=JavaScript&logoColor=black)
+![Typescript Badge](https://img.shields.io/badge/Typescript-007acc?style=flat-square&logo=TypeScript&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-2dcc62?style=flat-square&logo=Node.js&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white)
-![Javascript Badge](https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=JavaScript&logoColor=black)
-![Typescript Badge](https://img.shields.io/badge/Typescript-007acc?style=flat-square&logo=TypeScript&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white)
 
 <div align = center>
   
