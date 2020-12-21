@@ -1,7 +1,7 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=spacesangsoo)](https://solved.ac/spacesangsoo)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://merrily-code.netlify.app/)](https://merrily-code.netlify.app/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://c17an.netlify.app/)](https://c17an.netlify.app/)
 ![React Badge](https://img.shields.io/badge/React-34d2eb?style=flat-square&logo=react&logoColor=white)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
