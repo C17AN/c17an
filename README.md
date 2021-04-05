@@ -12,7 +12,7 @@
 ![Redux Badge](https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=Redux&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white)
 
-<div style = "display: flex">
+<div align = center>
   
   ![C17AN's github stats](https://github-readme-stats.vercel.app/api?username=C17AN&show_icons=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C17AN&layout=compact)
