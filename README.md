@@ -1,16 +1,16 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=chanstar)](https://solved.ac/chanstar)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://c17an.netlify.app/)](https://c17an.netlify.app/)
-![React Badge](https://img.shields.io/badge/React-34d2eb?style=flat-square&logo=react&logoColor=white)
-![HTML5 Badge](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![Javascript Badge](https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=JavaScript&logoColor=black)
-![Typescript Badge](https://img.shields.io/badge/Typescript-007acc?style=flat-square&logo=TypeScript&logoColor=white)
-![Node.js Badge](https://img.shields.io/badge/Node.js-2dcc62?style=flat-square&logo=Node.js&logoColor=white)
-![Git Badge](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white)
-![Redux Badge](https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=Redux&logoColor=white)
-![Python Badge](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 <div align = center>
 <table><tr><td valign="top" width="50%">
