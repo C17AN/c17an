@@ -10,7 +10,6 @@
 ![image](https://img.shields.io/badge/Redux-593D88?&style=flat&logo=redux&logoColor=white)
 ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?&style=flat&logo=tailwind-css&logoColor=white)
 ![image](https://img.shields.io/badge/Express.js-000000?&style=flat&logo=express&logoColor=white)
-![image](https://img.shields.io/badge/Docker-2CA5E0?&style=flat&logo=docker&logoColor=white)
 
 <div align = center>
 <table><tr><td valign="top" width="50%">
