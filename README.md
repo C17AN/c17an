@@ -6,7 +6,6 @@
 ![image](https://img.shields.io/badge/next.js-000000?&style=flat&logo=nextdotjs&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?&style=flat&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?&style=flat&logo=typescript&logoColor=white)
-![image](https://img.shields.io/badge/MongoDB-4EA94B?&style=flat&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/Redux-593D88?&style=flat&logo=redux&logoColor=white)
 ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?&style=flat&logo=tailwind-css&logoColor=white)
 ![image](https://img.shields.io/badge/Express.js-000000?&style=flat&logo=express&logoColor=white)
