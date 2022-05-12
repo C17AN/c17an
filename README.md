@@ -1,22 +1,19 @@
-### Hi there 👋
+### 👋🏻 안녕하세요! 배움과 도전을 사랑하는 찬민입니다.
 
-<div align = center>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FC17AN)](https://hits.seeyoufarm.com)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=chanstar)](https://solved.ac/chanstar)
+
+<img src = "/logo.svg" alt = "logo"/>
+	   
+---
+
+<table><tr><td valign="top" width="50%">
+  
+  <img src = "https://github-readme-stats.vercel.app/api?username=C17AN&show_icons=true&hide_border=true" align="left" style = "width: 100%"/>
+  
+  </td><td valign="top" width="50%">
+
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=C17AN&layout=compact&hide_border=true" align="left" style = "width: 100%"/>
+
+</td></tr></table>  
 </div>
-
-<!--
-**C17AN/c17an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
