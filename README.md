@@ -2,8 +2,6 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=chanstar)](https://solved.ac/chanstar)
-
-<img src = "/logo.svg" alt = "logo"/>
 	   
 ---
 
