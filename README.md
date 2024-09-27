@@ -1,3 +1,4 @@
+![Chanmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=c17an&show_icons=true&theme=dracula)
 
 <a href="https://github.com/devxb/gitanimals">
   <img
